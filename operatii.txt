@@ -1,0 +1,463 @@
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:11:30
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:11:35
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:11:40
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:12:37
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:12:42
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:12:47
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:12:52
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:14:00
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:14:05
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:14:10
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:14:15
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:14:20
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:14:41
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:14:41
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:15:14
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:15:14
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:19
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:15:19
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:24
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:15:24
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:29
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:15:29
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:34
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:15:34
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:39
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:39
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:44
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:44
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:49
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:15:49
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+New Text Document.txt - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:34:03
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:34:03
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:34:05
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:34:08
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:34:08
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:34:13
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:34:13
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:34:18
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:34:18
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:34:23
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:34:23
+test.txt - Not modified
+New Text Document.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:35:53
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:35:53
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:35:58
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:35:58
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:36:59
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:36:59
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:37:01
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:37:04
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:37:04
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:37:57
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:37:57
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:38:02
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:38:02
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:38:07
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:38:07
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:39:35
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:39:35
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:39:40
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:39:40
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Adam.jpg - New file
+Main.java - New file
+MonitorFisiere.java - New file
+operatii.txt - New file
+test.txt - New file
+Snapshot created at: 2024-03-20 14:39:48
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:39:48
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:39:53
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:39:53
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
+Snapshot created at: 2024-03-20 14:39:58
+test.txt - Not modified
+Main.java - Not modified
+operatii.txt - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+Snapshot created at: 2024-03-20 14:39:58
+test.txt - Not modified
+Main.java - Not modified
+Adam.jpg - Not modified
+MonitorFisiere.java - Not modified
+operatii.txt - Changed
